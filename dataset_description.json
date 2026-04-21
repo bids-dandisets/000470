@@ -4,7 +4,9 @@
     "HEDVersion": "8.3.0",
     "Description": "Test data",
     "DatasetType": "raw",
-    "Authors": [],
+    "Authors": [
+        "Krishnan, Seetha"
+    ],
     "License": "CC-BY-4.0",
     "GeneratedBy": [
         {
